@@ -1,0 +1,22 @@
+{
+    "underlying_file_path": "RBC_Underlying_Data.xlsx",
+    "assets": [
+        "GLD",
+        "SPY",
+        "IEF"
+    ],
+    "si_inc_dates": ["2006-01-31", "2006-02-28", "2006-03-31", "2006-04-28", "2006-05-31", "2006-06-30", "2006-07-31", "2006-08-31", "2006-09-29", "2006-10-31", "2006-11-30", "2006-12-29"],
+    "ind_inc_date": "2006-12-29",
+    "ref_start_date": "1998-01-02",
+    "ref_app_date": "2018-04-02",
+
+    "aal_start_date": "2005-01-03",
+    "dividend_tax": 0.3,
+    "price_prcsn": 2,
+    "index_prcsn": 3,
+    "folder_name": "indexes",
+    "st_date": "2023-12-02",
+    "end_date": "2023-12-08",
+    "TCR": 0.0002,
+    "spread": 0.005
+}
